@@ -2,7 +2,7 @@ A simple Python3.3 client for http://pushover.net/ API based off of https://gith
 
 Install:
 
-    pip install https://github.com/Wyattjoh/pushover
+    pip install git+https://github.com/Wyattjoh/pushover
 
 Sample Python3 Usage:
 
