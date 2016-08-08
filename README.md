@@ -1,3 +1,5 @@
+# pushover [![Build Status](https://travis-ci.org/wyattjoh/pushover.svg?branch=master)](https://travis-ci.org/wyattjoh/pushover)
+
 A simple Python3.3 client for http://pushover.net/ API based off of https://github.com/pix0r/pushover by pix0r.
 
 Install:
